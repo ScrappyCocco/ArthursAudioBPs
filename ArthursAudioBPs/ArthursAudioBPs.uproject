@@ -1,6 +1,6 @@
 {
 	"FileVersion": 3,
-	"EngineAssociation": "4.24",
+	"EngineAssociation": "ue4v:4.24-PB-20200324",
 	"Category": "",
 	"Description": "",
 	"Plugins": [
@@ -43,6 +43,16 @@
 		{
 			"Name": "Linter",
 			"Enabled": false
+		},
+		{
+			"Name": "LightMapUEr",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/3e5c949daaab494fb5dbf54b29b0d38b"
+		},
+		{
+			"Name": "MatBatchUEr",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/de32e6a9d9fa491bb1ed3f49465a8063"
 		}
 	]
 }
